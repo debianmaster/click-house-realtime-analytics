@@ -24,4 +24,4 @@ ORDER BY id;
 python3 listen.py
 python3 push.py
 
-```# click-house-realtime-analytics
+```
